@@ -2,6 +2,9 @@
 # Olympics Analysis App
 
 This is a Python application built using the Streamlit framework for analyzing Olympic data. It provides various features for exploring and visualizing information about Olympic events, countries, athletes, and medal tallies.
+<center>
+<img src="image/medal_tally.png" alt="MAIN SITE" width="100%">
+</center>
 
 ## Installation
 
@@ -29,12 +32,18 @@ The application's sidebar contains navigation options to choose different analys
 ### Medal Tally
 
 In the **Medal Tally** section, you can select a specific year and country from the sidebar to view the corresponding medal tally. The table will show the number of gold, silver, and bronze medals won by the selected country in the chosen year. If "Overall" is selected for either year or country, the overall medal tally will be displayed.
+<center>
+<img src="image/medal_tally.png" alt="MAIN SITE" width="100%">
+</center>
 
 ### Overall Analysis
 
 The **Overall Analysis** section presents various top statistics about the Olympics. It includes the number of editions, host cities, sports, events, athletes, and participating nations. Visualizations show the number of participating nations, events, and athletes over the years. Additionally, a heatmap displays the number of events per sport for each year.
 
 You can also select a specific sport from the dropdown to view the most successful athletes in that sport.
+<center>
+<img src="image/overall_analysis.png" alt="MAIN SITE" width="80%">
+</center>
 
 ### Country-wise Analysis
 
